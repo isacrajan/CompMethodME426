@@ -1,2 +1,2 @@
 # CompMethodME426
-Assignment files for solving the assignments of ME426, Applied Computational Methods in Mechanical Sciences
+Source codes for solving the assignments of course ME426, Applied Computational Methods in Mechanical Sciences. 
