@@ -1,0 +1,21 @@
+The matrix A is as shown below:
+25	5	1	
+64	8	1	
+144	12	1	
+The matrix B is as shown below:
+106.8
+177.2
+279.2
+After solving, the values of a1, a2, and a3 are: 
+a1 = 0.290476
+a2 = 19.6905
+a3 = 1.08571
+
+The velocity at t = 6 sec is 129.686
+CPU time: 0 seconds
+
+Verification: Substituting results into original equation:
+Error is:
+	Error in Equation 1 is 8.88178e-016
+	Error in Equation 2 is 1.5099e-014
+	Error in Equation 3 is 7.19425e-014

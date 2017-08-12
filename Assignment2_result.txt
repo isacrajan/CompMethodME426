@@ -1,0 +1,67 @@
+Results: DOO-LITTLE DECOMPOSITION METHOD
+Contents of Matrix A:
+1	4	1	
+1	6	-1	
+2	-1	2	
+Contents of Matrix B:
+7
+13
+5
+Contents of Matrix U:
+1	4	1	
+0	2	-2	
+0	0	-9	
+Contents of Matrix L:
+1	0	0	
+1	1	0	
+2	-4.5	1	
+Contents of Matrix Z:
+7
+6
+18
+After solving, the values of x1, x2, and x3 are: 
+x1 = 5
+x2 = 1
+x3 = -2
+CPU time: 0 seconds
+
+Verification: Substituting results into original equation:
+Error is:
+	Error in Equation 1 is 0
+	Error in Equation 2 is 0
+	Error in Equation 3 is 0
+
+
+---------------------------------------
+Results: CHOLESKY DECOMPOSITION METHOD
+Contents of Matrix A:
+10	-1	2	
+-1	12	-1	
+2	-1	20	
+Contents of Matrix B:
+11
+10
+21
+
+Check Result: Matrix A is symmetric
+Check Result: Matrix A is Positive Definite
+
+Contents of Matrix U:
+3.16228	-0.316228	0.632456	
+0	3.44964	-0.231908	
+0	0	4.42111	
+Contents of Matrix Z:
+3.47851
+3.21773
+4.42111
+After solving, the values of x1, x2, and x3 are: 
+x1 = 1
+x2 = 1
+x3 = 1
+CPU time: 0 seconds
+
+Verification: Substituting results into original equation:
+Error is:
+	Error in Equation 1 is 1.77636e-015
+	Error in Equation 2 is -3.55271e-015
+	Error in Equation 3 is 4.44089e-016
