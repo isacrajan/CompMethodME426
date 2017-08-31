@@ -1,0 +1,51 @@
+Results: GOLDEN SECTION SEARCH METHOD
+
+Iteration 1
+	Error = 0.97081
+Iteration 2
+	Error = 0.59999
+Iteration 3
+	Error = 0.37081
+Iteration 4
+	Error = 0.22918
+Iteration 5
+	Error = 0.14164
+Iteration 6
+	Error = 0.08754
+Iteration 7
+	Error = 0.05410
+Iteration 8
+	Error = 0.03344
+Iteration 9
+	Error = 0.02066
+Iteration 10
+	Error = 0.01277
+Iteration 11
+	Error = 0.00789
+Iteration 12
+	Error = 0.00488
+Iteration 13
+	Error = 0.00301
+Iteration 14
+	Error = 0.00186
+Iteration 15
+	Error = 0.00115
+Iteration 16
+	Error = 0.00071
+Iteration 17
+	Error = 0.00044
+Solution converged at iteration = 17
+Final Optimal Solution = 1.0472
+Max Value of Function = 5.1962
+
+Results: NEWTON'S METHOD
+
+Iteration 1
+	Relative Approx Error = 0.24957
+Iteration 2
+	Relative Approx Error = 0.00057
+Iteration 3
+	Relative Approx Error = 0.00000
+Solution converged at iteration = 3
+Final Optimal Solution = 1.0472
+Max Value of Function = 5.1962
